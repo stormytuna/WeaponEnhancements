@@ -1,0 +1,3 @@
+displayName = Weapon Enhancements
+author = stormytuna
+version = 0.1
